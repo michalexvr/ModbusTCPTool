@@ -1,0 +1,5 @@
+2015-06-11 13:20:26: Falla Comunicacion java.lang.NullPointerException
+2015-06-11 13:22:05: Falla Comunicacion java.lang.NullPointerException
+2015-06-11 13:22:32: Falla Comunicacion java.lang.NullPointerException
+2015-06-11 13:22:45: Falla Comunicacion java.lang.NullPointerException
+2015-06-11 13:24:00: Falla Comunicacion java.lang.NullPointerException
