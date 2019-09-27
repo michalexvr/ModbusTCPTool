@@ -9,13 +9,6 @@ You can read and look for Modbus TCP devices connected on your network, read the
 Java/Jre/JDK     >= 1.6
 ```
 
-## Configuracion ##
-
-Instalar las dependencias de laravel con composer
-
-```
-composer install
-```
 ### Implementation
 
 clone repo
