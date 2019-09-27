@@ -1,7 +1,7 @@
 # ModbusTCPTool
-A Tool to scan an Modbus TCP device and read the values of her fields written in Java using Swing for the  UI
+A Tool to scan an Modbus TCP devices and read the values of her fields written in Java using Swing for the  UI
 
-You can read and look for Modbus TCP devices connected on your network, read the data points and review the info on INT, UINT, Hex or Float
+You can read and look for Modbus TCP devices connected on your network, read the data points and review the info on INT, UINT, Hex or Float data types
 
 [![N|Img](https://raw.githubusercontent.com/michalexvr/ModbusTCPTool/master/modbustcptool.png)](https://github.com/michalexvr/ModbusTCPTool/blob/master/modbustcptool.png)
 
